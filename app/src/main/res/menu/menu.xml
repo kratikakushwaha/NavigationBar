@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mail"
+        android:title="Mail"
+        android:icon="@drawable/ic_mail_black_24dp"/>
+    <item android:id="@+id/send"
+        android:title="Send"
+        android:icon="@drawable/ic_send_black_24dp"/>
+    <item android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_share_black_24dp"/>
+    <item android:id="@+id/change"
+        android:title="Change Image"
+       android:icon="@drawable/ic_settings_black_24dp"/>
+
+
+
+
+</menu>

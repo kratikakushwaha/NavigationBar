@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:orientation="vertical"
+    android:background="@drawable/back">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/imageview"
+        android:src="@drawable/pic2" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="30dp"
+        android:textColor="@android:color/holo_green_dark"
+        android:text="My Navigation Bar" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="30dp"
+        android:textColor="@android:color/holo_green_dark"
+        android:text="Hello this is my first navigation bar" />
+
+
+
+</LinearLayout>
